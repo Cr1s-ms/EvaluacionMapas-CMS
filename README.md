@@ -18,4 +18,4 @@
 3. Ejecutar la aplicacion en un dispositivo o emulador
 4. Asegurare de que los permisos necesarios están configurados
 
-## Reporte de Vulnerabilidades El reporte detallado de las pruebas de vulnerabilidad realizadas se encuentra en el archivo `vulnerability_report.pdf'`
+## Reporte de Vulnerabilidades El reporte detallado de las pruebas de vulnerabilidad realizadas se encuentra en el archivo `vulnerability_report.pdf`
