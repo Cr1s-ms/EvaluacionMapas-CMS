@@ -7,4 +7,4 @@
 ##Mejoras imlementadas
 
 ##Documentacion
-
+-[Vulnerabilidades](vulnerabilities.md)
