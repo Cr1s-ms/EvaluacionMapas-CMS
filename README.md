@@ -14,10 +14,10 @@
 - Se deactivan las copias de seguridad
 
 ## Documentacion
--[Vulnerabilidades](vulnerabilities.md)
--[Best Practices](best_practices.md)
--[Security Tips](security_tips.md)
--[Security Improvement Program](security_improvement_program.md)
+- [Vulnerabilidades](vulnerabilities.md)
+- [Best Practices](best_practices.md)
+- [Security Tips](security_tips.md)
+- [Security Improvement Program](security_improvement_program.md)
 
 ## Cómo ejecutar la aplicación de Forma Segura
 1. Clonar el repositorio
