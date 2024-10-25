@@ -3,10 +3,17 @@
 # Este proyecto es una aplicacion en la que puedes acceder a el mapa y ver tu ubicacion en tiempo real.
 
 ## Vulnerabilidades identificadas
+- La aplicacion se puede instalar en una version vulnerable de android
+- Depuracion habilitada
+- Se puede realizar una copia de seguridad de los datos de la aplicacion
+
 
 ## Mejoras implementadas
+- Se establece el `minSdkVersion` a 30 o superior
+- Se desactiva la depuracion
+- Se deactivan las copias de seguridad
 
-##Documentacion
+## Documentacion
 -[Vulnerabilidades](vulnerabilities.md)
 -[Best Practices](best_practices.md)
 -[Security Tips](security_tips.md)
